@@ -2,7 +2,7 @@
 <project>
   <fileVersion>3</fileVersion>
   <configuration>
-    <name>pwm</name>
+    <name>project</name>
     <toolchain>
       <name>ARM</name>
     </toolchain>
@@ -652,7 +652,7 @@
         </option>
         <option>
           <name>OOCOutputFile</name>
-          <state>pwm.hex</state>
+          <state>project.hex</state>
         </option>
         <option>
           <name>OOCCommandLineProducer</name>
@@ -707,7 +707,7 @@
         </option>
         <option>
           <name>IlinkOutputFile</name>
-          <state>pwm.out</state>
+          <state>project.out</state>
         </option>
         <option>
           <name>IlinkDebugInfoEnable</name>
