@@ -1,0 +1,14 @@
+*
+
+!*/
+!.gitignore
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!*.ioc
+!*.md
+!*.eww
+!*.s
+!*.ewp
+!*flash.icf
